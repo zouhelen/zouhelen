@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi I'm Helen 🍉
+---
+I like React and Typescript, and have been trying to learn and make more things :)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="helen-zou" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/helen-zou?trk=profile-badge">Check out my LinkedIn</a></div>
+
+---
+
+My current coding to-do's are  
+- 🎨 Make a fun portfolio site  
+- 🤖 Code some useful Discord Bots  
+- 🐀 Learn Go 
 <!--
 **zouhelen/zouhelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
